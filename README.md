@@ -2,7 +2,9 @@
 
 A Replica of the current spaceX website with correct media dimensions, animations (such as buttons and hovers) alongside a side-navbar with popout function. Primarily made with HTML, CSS alongside some JavaScript for animation functionality. 
 
-<img src="./assets/Apr-12-2023 15-46-12.gif" width="900">
+https://user-images.githubusercontent.com/113186634/231500265-e11722a4-aceb-45df-91a5-6469c9ae5598.mp4
 
 
-<img src="./assets/Apr-12-2023 15-45-46.gif" width="900">
+
+https://user-images.githubusercontent.com/113186634/231500635-bcf755df-5177-400b-88c6-cc8edd44675f.mp4
+
